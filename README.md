@@ -1,8 +1,10 @@
 # VCC Assignment 2 — Auto Scaling & Security on AWS
 
 **Name:** Jafar Sadiq A
+
 **Roll No:** M25AI2113
-**Course:** Virtual and Cloud Computing
+
+**Course:** Virtualization and Cloud Computing
 
 ---
 
